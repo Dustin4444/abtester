@@ -12,5 +12,5 @@ streamlit-navigation-bar = "==3.2.0"
 statsmodels = "==0.14.2"
 
 [dev-packages]
-pytest = "==8.2.0"
+pytest = "==9.0.3"
 jupyterlab = "==4.2.0"
